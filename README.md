@@ -7,3 +7,5 @@ Co-author: Leticia Chen, Jay Yu (Jayyu231)
 The datasets for training can be downloaded via the links below:
 
 * GoPro
+
+Total: 1111 blured images and 1111 clear images
