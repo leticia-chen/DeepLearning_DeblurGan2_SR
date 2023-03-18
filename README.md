@@ -11,3 +11,12 @@ The datasets for training can be downloaded via the links below:
 Total: 1111 blured images and 1111 clear images
 
 The datasets will be preprocessed by DeblurGanv2 to obtain deblurred images, although they may still be slightly blurred. These images will be fed into the SR_Gan model.
+
+## Training:
+
+### Criteria
+* Train by scaling images to 1/4 size
+* Train by using original image size
+* Train both sizes to generate 60 sets of model checkpoints
+* Evaluate their PSNR/D Loss/G Loss using the 60 sets of model checkpoints
+* Pick 4 sets of model checkpoints based on PSNR as pre-trained models
