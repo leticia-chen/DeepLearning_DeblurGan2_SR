@@ -4,6 +4,7 @@ The objective of this project is to improve the quality of motion blurred images
 
 Co-author: Leticia Chen, Jay Yu (Jayyu231)
 
+![image](https://github.com/leticia-chen/DeepLearning_DeblurGan2_SR/blob/main/readme_image.png)
 <img scr="https://github.com/leticia-chen/DeepLearning_DeblurGan2_SR/blob/main/readme_image.png">
 
 ## Datasets
