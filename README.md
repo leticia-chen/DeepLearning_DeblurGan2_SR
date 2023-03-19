@@ -5,6 +5,7 @@ The objective of this project is to improve the quality of motion blurred images
 Co-author: Leticia Chen, Jay Yu (Jayyu231)
 
 <img scr="readme_image.png">
+
 ## Datasets
 The datasets for training can be downloaded via the links below:
 
