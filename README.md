@@ -24,3 +24,5 @@ The datasets will be preprocessed by DeblurGanv2 to obtain deblurred images(get_
 * Train both sizes to generate 60 sets of model checkpoints
 * Evaluate their PSNR/D Loss/G Loss using the 60 sets of model checkpoints
 * Pick 4 sets of model checkpoints based on PSNR as pre-trained models
+
+![image](https://github.com/leticia-chen/DeepLearning_DeblurGan2_SR/blob/main/Images/readme_image.png)
