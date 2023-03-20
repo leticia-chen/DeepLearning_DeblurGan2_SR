@@ -5,7 +5,7 @@ The objective of this project is to improve the quality of motion blurred images
 Co-author: Leticia Chen, Jay Yu (Jayyu231)
 
 Original(blur)->DblurGan->SuperResolution compare with Original(sharp)
-![image](https://github.com/leticia-chen/DeepLearning_DeblurGan2_SR/blob/main/readme_image.png)
+![image](https://github.com/leticia-chen/DeepLearning_DeblurGan2_SR/blob/main/Images/readme_image.png)
 
 ## Datasets
 The datasets for training can be downloaded via the links below:
