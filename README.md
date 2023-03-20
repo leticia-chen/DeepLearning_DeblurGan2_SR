@@ -26,3 +26,9 @@ The datasets will be preprocessed by DeblurGanv2 to obtain deblurred images(get_
 * Pick 4 sets of model checkpoints based on PSNR as pre-trained models
 
 ![image](https://github.com/leticia-chen/DeepLearning_DeblurGan2_SR/blob/main/Images/psnr_ssm.png)
+
+In our project, there is the best performance while training with original image size.
+
+## Demo
+
+we got the better 4 model-checkpoints:
