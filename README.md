@@ -34,6 +34,7 @@ In our project, there is the best performance while training with original image
 we got the better 4 model-checkpoints (DeblurGanv2_SR_demo.ipynb:
 
 model08 = 'models_checkpoint_by_Jay/generator_8.pth'
+
 model41 = 'models_checkpoint_by_Jay/generator_41.pth'
 
 model56 = 'models_checkpoint_by_Jay/generator_56.pth'
