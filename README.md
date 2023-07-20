@@ -12,7 +12,7 @@ The datasets for training can be downloaded via the links below:
 
 * GoPro
 
-The GoPro dataset for deblurring consists of 3,214 blurred images with the size of 1,280×720 that are divided into 2,103 training images and 1,111 test images. The dataset consists of pairs of a realistic blurry image and the corresponding ground truth shapr image that are obtained by a high-speed camera.(sources:https://paperswithcode.com/dataset/gopro)
+The GoPro dataset for deblurring consists of 3,214 blurred images with the size of 1,280×720 that are divided into 2,103 training images and 1,111 test images. The dataset consists of pairs of a realistic blurry image and the corresponding ground truth shapr image that are obtained by a high-speed camera.
 
 <a href="https://paperswithcode.com/dataset/gopro">GoPro Dataset</a>
 
